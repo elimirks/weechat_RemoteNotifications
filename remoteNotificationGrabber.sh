@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOST="elijah@208.68.36.163"
+HOST="user@host"
 
 # The path to the notifications log on the server.
 NOTIFICATION_PATH="/tmp/notifications.txt"
